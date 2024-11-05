@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nicolo.info/sitemap.xml
 Sitemap: https://nicololuescher.ch/sitemap.xml
